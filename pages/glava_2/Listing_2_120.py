@@ -1,0 +1,13 @@
+# Листинг 2.120
+print('Эти данные будут иметь тип - строка')
+print('str(True):', str(True))
+print('str(False):', str(False))
+print('str+6.9-3.2j:', str(+6.9-3.2j))
+print('str(55):', str(+55))
+print('str(-7.44):', str(-7.44))
+print('str(1.2e-2):', str(1.2e-2))
+print('str(None):', str(None))
+print('str([0.15, 1,5]):', str([0.15, 1, 5]))
+print("str({'Один', 'Два'}):", str({'Один', 'Два'}))
+print("str((5, '6')):", str((5, '6')))
+print('str({11: [22, True]}):', str({11: [22, True]}))

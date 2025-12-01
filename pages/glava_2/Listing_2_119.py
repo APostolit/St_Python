@@ -1,0 +1,10 @@
+# Листинг 2.119
+print('Эти данные будут иметь тип - комплексное число')
+print('complex(True):', complex(True))
+print('complex(False):', complex(False))
+print('complex(" +4.9-3.2j"):', complex(' +4.9-3.2j'))
+print('complex(" 55"):', complex(' 55'))
+print('complex(" -7.44 "):', complex(' -7.44 '))
+print('complex("1.2e-2 "):', complex('1.2e-2 '))
+print('complex("NaN"):', complex('NaN'))
+print('complex(" -Infinity "):', complex(' -Infinity '))

@@ -1,7 +1,7 @@
 [client]
 # Показывать меню в боковой панели
 showSidebarNavigation = true
-initial_sidebar_state="auto"
+# initial_sidebar_state="auto"
 
 [theme]
 primaryColor="#6eb52f"
